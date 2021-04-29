@@ -1,5 +1,8 @@
 # IoTProjectWebApp
-IoT Project Dashboard based on SB Admin 2 Dashboard
+IoT Project Dashboard based on SB Admin 2 Dashboard.
+Frontend - Bootstrap
+Backend - Flask
+Database - MongoDB
 
 ## About the project
 1. With the rise in the rate of urbanisation of areas, the loss of natural land cover has grown exponentially.
