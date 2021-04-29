@@ -13,5 +13,5 @@ Database - MongoDB
 6. This would help city officials in strategically planting trees and vegetation in an area to reduce the effects of the loss of land cover and help regulate temperatures around the area.
 
 Other contributors:
-Yash Srivastava
-Akshara Pramod
+1. Yash Srivastava
+2. Akshara Pramod
